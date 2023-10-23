@@ -1,12 +1,12 @@
 import PropTypes from "prop-types";
-import { Link } from "react-router-dom";
+import { Link, Router } from "react-router-dom";
 
 function Movie({ id, coverImg, title, summary, genres }) {
   return (
     <div>
       <div>
         <h2>
-          <Link to={`/movie/${id}`}>{title}</Link>
+          <Link to={`{$process.env.PUBLIC_URL +}/movie${id}`}>{title}</Link>
         </h2>
         <img src={coverImg} alt={title} />
         <p>{summary}</p>
