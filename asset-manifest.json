@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/lovers2020.gihtub.io/nomad-corders-react_practice/static/js/main.7d06c399.js",
-    "index.html": "/lovers2020.gihtub.io/nomad-corders-react_practice/index.html",
-    "main.7d06c399.js.map": "/lovers2020.gihtub.io/nomad-corders-react_practice/static/js/main.7d06c399.js.map"
+    "main.js": "/nomad-corders-react_practice/static/js/main.e28ac4ac.js",
+    "index.html": "/nomad-corders-react_practice/index.html",
+    "main.e28ac4ac.js.map": "/nomad-corders-react_practice/static/js/main.e28ac4ac.js.map"
   },
   "entrypoints": [
-    "static/js/main.7d06c399.js"
+    "static/js/main.e28ac4ac.js"
   ]
 }
