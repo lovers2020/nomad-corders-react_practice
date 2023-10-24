@@ -1,0 +1,12 @@
+.movie_box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.movie_list {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

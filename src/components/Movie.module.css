@@ -1,0 +1,11 @@
+
+
+.movie {
+  padding: 20px;
+  text-align: center;
+}
+.photo {
+  border-radius: 10px;
+  width: 200px;
+  height: 300px;
+}
